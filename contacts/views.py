@@ -33,7 +33,7 @@ def contact(request):
       'Property Listing Inquiry',
       'There has been an inquiry for '+ listing + '. Sign into admin panel for more info',
       'apptravelling01@gmail.com',
-      [realtor_email,'mohitchaitanya@gmail.com'],
+      [realtor_email,''],
       fail_silently=False,
     )
 
